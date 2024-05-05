@@ -4,3 +4,7 @@
 #### This is H4 header
 ##### This is H5 header
 ###### This is H6 header
+
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
