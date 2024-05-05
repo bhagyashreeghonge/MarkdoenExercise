@@ -8,3 +8,11 @@
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+```javascript
+Alert("Hi");
+```
+```c#
+int i=1;
+```
